@@ -1,0 +1,81 @@
+# importing only those functions
+# which are needed
+from tkinter import *
+import tkinter as tk
+import os
+import sys
+import json
+import csv
+from tkinter.filedialog import askopenfilename
+from tkinter import messagebox
+
+# creating tkinter window
+root = Tk()
+root.geometry('300x250')
+root.resizable(0,0)
+root.title('Json to CSV Converter')
+
+def About():
+    master = tk.Tk()
+    about_us = "A product by Avengers :P, Use wisely"
+    msg = tk.Message(master, text = about_us)
+    msg.pack()
+
+    
+def JsonFile():
+    new_path = 'C:/Users/toc/Desktop/Python_Codes/Data/Input'
+    name = askopenfilename(initialdir="C:/Users/toc/Desktop/Python_Codes/Data/JSON_File",
+                           filetypes=(("Json File", "*.json"), ("All Files", "*.*")),
+                           title="Choose a file."
+                           )
+    try:
+        with open(name,'r', encoding='utf8') as infile:
+            o = json.load(infile)
+            chunkSize = 1
+        os.chdir(new_path)
+        json_files = os.path.basename(name)
+        for i in range(0, len(o), chunkSize):
+            with open(json_files + '_' + str(i//chunkSize) + '.json', 'w') as outfile:
+                json.dump(o[i:i+chunkSize], outfile)
+                
+    except:
+        messagebox.showwarning("Warning", "Select a file")
+
+   # finally:
+        #messagebox.showinfo("Information","Split Completed")
+        
+
+
+def CSVFile():
+    name1 = askopenfilename(initialdir="C:/Users/toc/Desktop/Python_Codes/Data/Input",
+                            filetypes=(("Json File", "*.json"), ("All Files", "*.*")),
+                            title="Choose a file.")
+    print("No file exists")
+
+
+# Creating Menubar
+menubar = Menu(root)
+
+
+file = Menu(menubar, tearoff=0)
+menubar.add_cascade(label='Exit', menu=file)
+#file.add_command(label='Browse', command=JsonFile)
+file.add_command(label='Exit', command=root.destroy)
+
+browsebutton = Button(root, text='Browse', command=JsonFile)
+browsebutton.pack()
+
+# Adding Edit Menu and commands
+#edit = Menu(menubar, tearoff=0)
+#menubar.add_cascade(label='CSV Conversion', menu=edit)
+#edit.add_command(label='Browse', command=CSVFile)
+#edit.add_separator()
+
+# Adding Help Menu
+help_ = Menu(menubar, tearoff=0)
+menubar.add_cascade(label='Help', menu=help_)
+help_.add_command(label='About Us', command=About)
+
+# display Menu
+root.config(menu=menubar)
+mainloop()
