@@ -33,8 +33,8 @@ def run():
 
     
 def JsonFile():
-    new_path = 'C:/Users/toc/Desktop/Python_Codes/Data/Input'
-    name = askopenfilename(initialdir="C:/Users/toc/Desktop/Python_Codes/Data/JSON_File",
+    new_path = '*Python_Codes\Data\Input'
+    name = askopenfilename(initialdir="*\Python_Codes\Data\JSON_File",
                            filetypes=(("Json File", "*.json"), ("All Files", "*.*")),
                            title="Choose a file."
                            )
@@ -45,7 +45,7 @@ def JsonFile():
         os.chdir(new_path)
         json_files = os.path.basename(name)
         for i in range(0, len(o), chunkSize):
-            with open(json_files + '_' + str(i//chunkSize) + '.json', 'w') as outfile:
+            with open(json_files + '_' + str(i\\chunkSize) + '.json', 'w') as outfile:
                 json.dump(o[i:i+chunkSize], outfile)
                 run()
                 
@@ -55,7 +55,7 @@ def JsonFile():
 
 
 def CSVFile():
-    name1 = askopenfilename(initialdir="C:/Users/toc/Desktop/Python_Codes/Data/Input",
+    name1 = askopenfilename(initialdir="*\Python_Codes\Data\Input",
                             filetypes=(("Json File", "*.json"), ("All Files", "*.*")),
                             title="Choose a file.")
     print("No file exists")
