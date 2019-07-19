@@ -2,8 +2,9 @@
 # which are needed
 from tkinter import *
 import tkinter as tk
+from tkinter import ttk
 import os
-import sys
+import time
 import json
 import csv
 from tkinter.filedialog import askopenfilename
@@ -11,7 +12,7 @@ from tkinter import messagebox
 
 # creating tkinter window
 root = Tk()
-root.geometry('300x250')
+root.geometry('500x250')
 root.resizable(0,0)
 root.title('Json to CSV Converter')
 
@@ -19,7 +20,16 @@ def About():
     master = tk.Tk()
     about_us = "A product by Avengers :P, Use wisely"
     msg = tk.Message(master, text = about_us)
-    msg.pack()
+    msg.grid()
+
+
+def run():
+  progressBar['maximum'] = 100
+  for i in range(101):
+    #time.sleep(0.01)
+    progressBar["value"] = i
+    progressBar.update()
+    progressBar["value"] = 0
 
     
 def JsonFile():
@@ -37,13 +47,11 @@ def JsonFile():
         for i in range(0, len(o), chunkSize):
             with open(json_files + '_' + str(i//chunkSize) + '.json', 'w') as outfile:
                 json.dump(o[i:i+chunkSize], outfile)
+                run()
                 
+        messagebox.showinfo("Information","Split Completed")
     except:
-        messagebox.showwarning("Warning", "Select a file")
-
-   # finally:
-        #messagebox.showinfo("Information","Split Completed")
-        
+        messagebox.showwarning("Warning", "Invalid JSON file")
 
 
 def CSVFile():
@@ -63,7 +71,10 @@ menubar.add_cascade(label='Exit', menu=file)
 file.add_command(label='Exit', command=root.destroy)
 
 browsebutton = Button(root, text='Browse', command=JsonFile)
-browsebutton.pack()
+browsebutton.grid(column= 2, row = 2)
+
+progressBar = ttk.Progressbar(root, orient="horizontal", length=286,mode="determinate")
+progressBar.grid(column = 2, row = 3, padx= 100, pady=180)
 
 # Adding Edit Menu and commands
 #edit = Menu(menubar, tearoff=0)
