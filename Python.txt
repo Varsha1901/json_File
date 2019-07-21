@@ -25,7 +25,7 @@ def About():
 
 def run():
   progressBar['maximum'] = 100
-  for i in range(101):
+  for i in range(100):
     #time.sleep(0.01)
     progressBar["value"] = i
     progressBar.update()
@@ -33,8 +33,8 @@ def run():
 
     
 def JsonFile():
-    new_path = '*Python_Codes\Data\Input'
-    name = askopenfilename(initialdir="*\Python_Codes\Data\JSON_File",
+    new_path = '../json_to_csv/Data/Input'
+    name = askopenfilename(initialdir="../json_to_csv/Data/JSON_File",
                            filetypes=(("Json File", "*.json"), ("All Files", "*.*")),
                            title="Choose a file."
                            )
@@ -45,17 +45,18 @@ def JsonFile():
         os.chdir(new_path)
         json_files = os.path.basename(name)
         for i in range(0, len(o), chunkSize):
-            with open(json_files + '_' + str(i\\chunkSize) + '.json', 'w') as outfile:
+            with open(json_files + '_' + str(i//chunkSize) + '.json', 'w') as outfile:
                 json.dump(o[i:i+chunkSize], outfile)
                 run()
                 
-        messagebox.showinfo("Information","Split Completed")
-    except:
-        messagebox.showwarning("Warning", "Invalid JSON file")
+        messagebox.showinfo("Information","Split Completed")#4.19 mins for 4870 lines
+    finally:
+        messagebox.showinfo("Information","Exception not handled")
+
 
 
 def CSVFile():
-    name1 = askopenfilename(initialdir="*\Python_Codes\Data\Input",
+    name1 = askopenfilename(initialdir="../json_to_csv/Data/Input",
                             filetypes=(("Json File", "*.json"), ("All Files", "*.*")),
                             title="Choose a file.")
     print("No file exists")
