@@ -1,0 +1,996 @@
+[
+  {
+    "doi": "10.1001/2012.jama.10931",
+    "year": 2012,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Atherogenic Vascular Stiffness and Hypertension",
+    "doi_url": "https://doi.org/10.1001/2012.jama.10931",
+    "updated": "2018-06-19T10:05:43.310645",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "Debabrata",
+        "family": "Mukherjee"
+      }
+    ],
+    "journal_name": "JAMA"
+  },
+  {
+    "doi": "10.1001/archderm.137.12.1645",
+    "year": 2001,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Comparing the Diagnostic Accuracy of Dermatologists and Nondermatologists",
+    "doi_url": "https://doi.org/10.1001/archderm.137.12.1645",
+    "updated": "2018-06-14T16:29:49.556962",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "Steven R.",
+        "family": "Feldman"
+      },
+      {
+        "given": "Michael L.",
+        "family": "Coates"
+      },
+      {
+        "given": "Alan B.",
+        "family": "Fleischer, Jr"
+      },
+      {
+        "given": "Beverly G.",
+        "family": "Mellen"
+      },
+      {
+        "given": "Phillip M.",
+        "family": "Williford"
+      }
+    ],
+    "journal_name": "Archives of Dermatology"
+  },
+  {
+    "doi": "10.1001/archderm.139.6.801",
+    "year": 2003,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Commentary on: Local treatments for cutaneous warts: systematic review",
+    "doi_url": "https://doi.org/10.1001/archderm.139.6.801",
+    "updated": "2018-06-19T10:06:41.587179",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "Michael",
+        "family": "Bigby"
+      }
+    ],
+    "journal_name": "Archives of Dermatology"
+  },
+  {
+    "doi": "10.1001/archderm.1981.01650030016009",
+    "year": 1981,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Thrombotic Angiokeratoma Circumscriptum Simulating Melanoma",
+    "doi_url": "https://doi.org/10.1001/archderm.1981.01650030016009",
+    "updated": "2018-06-15T04:34:31.733156",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "Leon",
+        "family": "Goldman"
+      }
+    ],
+    "journal_name": "Archives of Dermatology"
+  },
+  {
+    "doi": "10.1001/archinte.146.12.2393",
+    "year": 1986,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Drug prescribing for the elderly",
+    "doi_url": "https://doi.org/10.1001/archinte.146.12.2393",
+    "updated": "2018-06-19T10:05:43.317410",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "D. E.",
+        "family": "Everitt"
+      }
+    ],
+    "journal_name": "Archives of Internal Medicine"
+  },
+  {
+    "doi": "10.1001/archinte.1928.00130170089009",
+    "year": 1928,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "COARCTATION OF THE AORTA",
+    "doi_url": "https://doi.org/10.1001/archinte.1928.00130170089009",
+    "updated": "2018-06-19T09:18:10.887464",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "L. MINOR",
+        "family": "BLACKFORD"
+      }
+    ],
+    "journal_name": "Archives of Internal Medicine"
+  },
+  {
+    "doi": "10.1001/archinte.1986.00360170247030",
+    "year": 1986,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Multiple Myeloma With Polyneuropathy and Coagulopathy",
+    "doi_url": "https://doi.org/10.1001/archinte.1986.00360170247030",
+    "updated": "2018-06-19T10:05:56.505504",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "Bradley T.",
+        "family": "Hyman"
+      }
+    ],
+    "journal_name": "Archives of Internal Medicine"
+  },
+  {
+    "doi": "10.1001/archneur.1989.00520400122032",
+    "year": 1989,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Relapsing Bilateral Brachial Plexopathy During Pregnancy",
+    "doi_url": "https://doi.org/10.1001/archneur.1989.00520400122032",
+    "updated": "2018-06-19T10:06:51.523818",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "Janice M. T.",
+        "family": "Redmond"
+      }
+    ],
+    "journal_name": "Archives of Neurology"
+  },
+  {
+    "doi": "10.1001/archneur.1996.00550100033012",
+    "year": 1996,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Cavernous Sinus Syndrome",
+    "doi_url": "https://doi.org/10.1001/archneur.1996.00550100033012",
+    "updated": "2018-06-19T10:06:41.597315",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "James R.",
+        "family": "Keane"
+      }
+    ],
+    "journal_name": "Archives of Neurology"
+  },
+  {
+    "doi": "10.1001/archneur.59.4.557",
+    "year": 2002,
+    "genre": "journal-article",
+    "is_oa": true,
+    "title": "Occlusion Due to Carotid Artery Dissection",
+    "doi_url": "https://doi.org/10.1001/archneur.59.4.557",
+    "updated": "2018-09-10T14:50:09.005506",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "Didier",
+        "family": "Milhaud"
+      },
+      {
+        "given": "Gabriel R.",
+        "family": "de Freitas"
+      },
+      {
+        "given": "Guy",
+        "family": "van Melle"
+      },
+      {
+        "given": "Julien",
+        "family": "Bogousslavsky"
+      }
+    ],
+    "journal_name": "Archives of Neurology"
+  },
+  {
+    "doi": "10.1001/archneurpsyc.1958.02340100018004",
+    "year": 1958,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Cinephotomicrography of the Pial Circulation",
+    "doi_url": "https://doi.org/10.1001/archneurpsyc.1958.02340100018004",
+    "updated": "2018-06-19T10:05:23.903674",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "E. S.",
+        "family": "GURDJIAN"
+      }
+    ],
+    "journal_name": "A.M.A. Archives of Neurology & Psychiatry"
+  },
+  {
+    "doi": "10.1001/archopht.119.8.1201",
+    "year": 2001,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "A look at the past . . .",
+    "doi_url": "https://doi.org/10.1001/archopht.119.8.1201",
+    "updated": "2018-06-19T10:04:39.572701",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "Archives of Ophthalmology"
+  },
+  {
+    "doi": "10.1001/archopht.123.2.214",
+    "year": 2005,
+    "genre": "journal-article",
+    "is_oa": true,
+    "title": "An Antisense Oligodeoxynucleotide Against Vascular Endothelial Growth Factor in a Nonhuman Primate Model of Iris Neovascularization",
+    "doi_url": "https://doi.org/10.1001/archopht.123.2.214",
+    "updated": "2018-06-21T15:36:52.068940",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "Robert B.",
+        "family": "Bhisitkul"
+      }
+    ],
+    "journal_name": "Archives of Ophthalmology"
+  },
+  {
+    "doi": "10.1001/archopht.1940.00870050149014",
+    "year": 1940,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "SOME OBSERVATIONS ON CROSSED CYLINDERS",
+    "doi_url": "https://doi.org/10.1001/archopht.1940.00870050149014",
+    "updated": "2018-06-19T10:04:45.304133",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "F. P.",
+        "family": "Smart"
+      }
+    ],
+    "journal_name": "Archives of Ophthalmology"
+  },
+  {
+    "doi": "10.1001/archopht.1967.00980020452007",
+    "year": 1967,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Strabismus in Congenital Rubella",
+    "doi_url": "https://doi.org/10.1001/archopht.1967.00980020452007",
+    "updated": "2018-06-20T13:56:38.108531",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "John F.",
+        "family": "O'Neill"
+      }
+    ],
+    "journal_name": "Archives of Ophthalmology"
+  },
+  {
+    "doi": "10.1001/archopht.1982.01030030169030",
+    "year": 1982,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "The Cornea in Measles",
+    "doi_url": "https://doi.org/10.1001/archopht.1982.01030030169030",
+    "updated": "2018-06-16T01:35:17.466459",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "F. C.",
+        "family": "Blodi"
+      }
+    ],
+    "journal_name": "Archives of Ophthalmology"
+  },
+  {
+    "doi": "10.1001/archotol.125.11.1262",
+    "year": 1999,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Sinogenic Subdural Empyema and Streptococcus anginosus",
+    "doi_url": "https://doi.org/10.1001/archotol.125.11.1262",
+    "updated": "2018-06-20T13:57:14.603887",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "Mark E.",
+        "family": "Hutchin"
+      },
+      {
+        "given": "Carol G.",
+        "family": "Shores"
+      },
+      {
+        "given": "Maureen S.",
+        "family": "Bauer"
+      },
+      {
+        "given": "Wendell G.",
+        "family": "Yarbrough"
+      }
+    ],
+    "journal_name": "Archives of Otolaryngology–Head & Neck Surgery"
+  },
+  {
+    "doi": "10.1001/archotol.129.12.1263",
+    "year": 2003,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Pointe Vicente Lighthouse, Palos Verdes Peninsula, California",
+    "doi_url": "https://doi.org/10.1001/archotol.129.12.1263",
+    "updated": "2018-06-16T18:53:06.593132",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "Archives of Otolaryngology–Head & Neck Surgery"
+  },
+  {
+    "doi": "10.1001/archotol.1940.00660021084009",
+    "year": 1940,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "ANGIOENDOTHELIOMA OF THE NASOPHARYNX",
+    "doi_url": "https://doi.org/10.1001/archotol.1940.00660021084009",
+    "updated": "2018-06-14T08:53:43.136353",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "W. D.",
+        "family": "FARMER"
+      }
+    ],
+    "journal_name": "Archives of Otolaryngology - Head and Neck Surgery"
+  },
+  {
+    "doi": "10.1001/archotol.1956.03830080028007",
+    "year": 1956,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Intracranial Complications of Chronic Mastoiditis",
+    "doi_url": "https://doi.org/10.1001/archotol.1956.03830080028007",
+    "updated": "2018-06-19T10:05:56.322736",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "H. R.",
+        "family": "MORSE"
+      }
+    ],
+    "journal_name": "Archives of Otolaryngology - Head and Neck Surgery"
+  },
+  {
+    "doi": "10.1001/archotol.1992.01880070101020",
+    "year": 1992,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Casual Surgical Techniques in January 1992 Photograph",
+    "doi_url": "https://doi.org/10.1001/archotol.1992.01880070101020",
+    "updated": "2018-06-16T04:46:58.398809",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "D. A.",
+        "family": "HILDING"
+      }
+    ],
+    "journal_name": "Archives of Otolaryngology - Head and Neck Surgery"
+  },
+  {
+    "doi": "10.1001/archotol.1992.01880080075016",
+    "year": 1992,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Mycosis Fungoides of the Larynx: Report of Two Cases and Review of the Literature",
+    "doi_url": "https://doi.org/10.1001/archotol.1992.01880080075016",
+    "updated": "2018-06-20T22:53:44.950199",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "J. J.",
+        "family": "Kuhn"
+      },
+      {
+        "given": "B. M.",
+        "family": "Wenig"
+      },
+      {
+        "given": "D. A.",
+        "family": "Clark"
+      }
+    ],
+    "journal_name": "Archives of Otolaryngology - Head and Neck Surgery"
+  },
+  {
+    "doi": "10.1001/archpedi.1962.02080020242007",
+    "year": 1962,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Measles in Nigeria",
+    "doi_url": "https://doi.org/10.1001/archpedi.1962.02080020242007",
+    "updated": "2018-06-20T13:57:11.584058",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "D. C.",
+        "family": "MORLEY"
+      }
+    ],
+    "journal_name": "Archives of Pediatrics & Adolescent Medicine"
+  },
+  {
+    "doi": "10.1001/archsurg.141.11.1109",
+    "year": 2006,
+    "genre": "journal-article",
+    "is_oa": true,
+    "title": "Implementing 1-Dose Antibiotic Prophylaxis for Prevention of Surgical Site Infection",
+    "doi_url": "https://doi.org/10.1001/archsurg.141.11.1109",
+    "updated": "2018-06-20T13:56:51.520565",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "Silvia Nunes Szente",
+        "family": "Fonseca"
+      }
+    ],
+    "journal_name": "Archives of Surgery"
+  },
+  {
+    "doi": "10.1001/jama.1892.02420140019001h",
+    "year": 1892,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "REPORT OF THE COMMITTEE ON IMPROVEMENT IN THE WORK OF THE SECTION.",
+    "doi_url": "https://doi.org/10.1001/jama.1892.02420140019001h",
+    "updated": "2018-06-17T06:43:12.626093",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1904.02490680037010",
+    "year": 1904,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "ANGINA PECTORIS AND ABDOMINIS.",
+    "doi_url": "https://doi.org/10.1001/jama.1904.02490680037010",
+    "updated": "2018-06-19T10:04:39.576591",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1906.25210130010001d",
+    "year": 1906,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "A PLEA FOR MORE RADICAL OPERATIONS IN CANCER OF THE LIPS AND TONGUE.",
+    "doi_url": "https://doi.org/10.1001/jama.1906.25210130010001d",
+    "updated": "2018-06-22T21:41:28.434261",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "D. N.",
+        "family": "EISENDRATH"
+      }
+    ],
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1912.04270130039024",
+    "year": 1912,
+    "genre": "journal-article",
+    "is_oa": true,
+    "title": "Common Disorders and Diseases of Childhood.",
+    "doi_url": "https://doi.org/10.1001/jama.1912.04270130039024",
+    "updated": "2018-06-16T04:09:46.705491",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1916.02590180044022",
+    "year": 1916,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "CREATIN, CREATININ AND MUSCLE TISSUE",
+    "doi_url": "https://doi.org/10.1001/jama.1916.02590180044022",
+    "updated": "2018-06-18T23:43:50.605459",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1919.02610300003002",
+    "year": 1919,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "THE TREATMENT OF GAS BACILLUS INFECTION",
+    "doi_url": "https://doi.org/10.1001/jama.1919.02610300003002",
+    "updated": "2018-06-16T19:16:49.117583",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "FREDERICK T.",
+        "family": "VAN BEUREN"
+      }
+    ],
+    "journal_name": "Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1921.02630490059033",
+    "year": 1921,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "\"THE PIRQUET SYSTEM OF NUTRITION AND ITS APPLICABILITY TO AMERICAN CONDITIONS\"",
+    "doi_url": "https://doi.org/10.1001/jama.1921.02630490059033",
+    "updated": "2018-06-20T21:03:39.784894",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1925.02660410029014",
+    "year": 1925,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "THE PITUITARY GLAND",
+    "doi_url": "https://doi.org/10.1001/jama.1925.02660410029014",
+    "updated": "2018-06-16T20:46:58.368405",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1925.02670060064042",
+    "year": 1925,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Allen's Commercial Organic Analysis. A Treatise on the Properties, Modes of Analysis, and Proximate Analytical Examination of the Various Organic Chemicals and Products Employed in the Arts, Manufactures, Medicine, Etc. With Concise Methods for the Detection and Estimation of Their Impurities, Adulterations, and Products of Decomposition. Volume III. Hydrocarbons, Bitumens, Naphthalene and Its Derivatives, Anthracene and Its Associates, Phenols, Aromatic Acids, Gallic Acid and Its Allies, Phthalic Acid and the Phthaleins, Modern Explosives.",
+    "doi_url": "https://doi.org/10.1001/jama.1925.02670060064042",
+    "updated": "2018-06-16T14:05:23.979317",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1936.02770450001001",
+    "year": 1936,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "TUBERCULOSIS OF THE HIP IN CHILDREN",
+    "doi_url": "https://doi.org/10.1001/jama.1936.02770450001001",
+    "updated": "2018-06-20T13:56:51.648959",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "JOSEPH S.",
+        "family": "BARR"
+      }
+    ],
+    "journal_name": "Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1939.02800440069048",
+    "year": 1939,
+    "genre": "journal-article",
+    "is_oa": true,
+    "title": "Current Medical Literature",
+    "doi_url": "https://doi.org/10.1001/jama.1939.02800440069048",
+    "updated": "2018-06-19T13:15:12.659353",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1941.02820410082042",
+    "year": 1941,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Papers of Wade Hampton Frost, M.D.: A Contribution to Epidemiological Method",
+    "doi_url": "https://doi.org/10.1001/jama.1941.02820410082042",
+    "updated": "2018-06-18T23:23:27.880566",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1943.72840280004019a",
+    "year": 1943,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "AUSTRALIA",
+    "doi_url": "https://doi.org/10.1001/jama.1943.72840280004019a",
+    "updated": "2018-07-19T14:54:19.354397",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1944.02850350046022",
+    "year": 1944,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Bureau of Investigation",
+    "doi_url": "https://doi.org/10.1001/jama.1944.02850350046022",
+    "updated": "2018-06-14T17:41:07.890606",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1952.03680020073010",
+    "year": 1952,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "FIFTY-SECOND ANNUAL REPORT ON MEDICAL EDUCATION",
+    "doi_url": "https://doi.org/10.1001/jama.1952.03680020073010",
+    "updated": "2018-07-16T11:48:35.349322",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1953.02940200056014d",
+    "year": 1953,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "MEXICO",
+    "doi_url": "https://doi.org/10.1001/jama.1953.02940200056014d",
+    "updated": "2018-06-21T15:47:30.840878",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1962.03050500103042",
+    "year": 1962,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "MAGAZINE AND TELEVISION REPORT",
+    "doi_url": "https://doi.org/10.1001/jama.1962.03050500103042",
+    "updated": "2018-06-19T10:04:30.484276",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "JAMA"
+  },
+  {
+    "doi": "10.1001/jama.1963.03700020123084",
+    "year": 1963,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Forceful Ureteral Spurt: A Common Roentgen M anifestation of Urinary Tract Infection in Children",
+    "doi_url": "https://doi.org/10.1001/jama.1963.03700020123084",
+    "updated": "2018-06-19T10:05:05.030991",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "JAMA"
+  },
+  {
+    "doi": "10.1001/jama.1964.03070250066038",
+    "year": 1964,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Questions and Answers",
+    "doi_url": "https://doi.org/10.1001/jama.1964.03070250066038",
+    "updated": "2018-06-19T03:18:28.182897",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "JAMA"
+  },
+  {
+    "doi": "10.1001/jama.1965.03080140073036",
+    "year": 1965,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Respiration. Vol I",
+    "doi_url": "https://doi.org/10.1001/jama.1965.03080140073036",
+    "updated": "2018-06-19T10:04:50.063990",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "David W.",
+        "family": "Cugell"
+      }
+    ],
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1968.03140210035008",
+    "year": 1968,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Semester Hours",
+    "doi_url": "https://doi.org/10.1001/jama.1968.03140210035008",
+    "updated": "2018-06-19T10:06:49.835449",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1969.03160100099030",
+    "year": 1969,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "The Lucky Rat",
+    "doi_url": "https://doi.org/10.1001/jama.1969.03160100099030",
+    "updated": "2018-06-20T21:22:05.282588",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "Don T.",
+        "family": "Killderatt"
+      }
+    ],
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1972.03200030063018",
+    "year": 1972,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Role of Chemotherapy",
+    "doi_url": "https://doi.org/10.1001/jama.1972.03200030063018",
+    "updated": "2018-07-25T03:20:47.524335",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "D. F. N.",
+        "family": "Harrison"
+      }
+    ],
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1983.03340220008005",
+    "year": 1983,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Corrections",
+    "doi_url": "https://doi.org/10.1001/jama.1983.03340220008005",
+    "updated": "2018-06-18T23:23:44.147588",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.1991.03470220042015",
+    "year": 1991,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Low-Dose Aspirin to Prevent Pregnancy-Induced Hypertensive Disease",
+    "doi_url": "https://doi.org/10.1001/jama.1991.03470220042015",
+    "updated": "2018-06-19T10:05:21.238589",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "Franz",
+        "family": "Rosa"
+      }
+    ],
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.208.5.856",
+    "year": 1969,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "CNS abnormalities after hyperbilirubinemia",
+    "doi_url": "https://doi.org/10.1001/jama.208.5.856",
+    "updated": "2018-06-19T10:05:05.044557",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": null,
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.218.8.1302b",
+    "year": 1971,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Privileged communication after death",
+    "doi_url": "https://doi.org/10.1001/jama.218.8.1302b",
+    "updated": "2018-06-19T10:04:50.071884",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "J. E.",
+        "family": "Lifschutz"
+      }
+    ],
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.222.4.488b",
+    "year": 1972,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Manifestations of atherosclerosis",
+    "doi_url": "https://doi.org/10.1001/jama.222.4.488b",
+    "updated": "2018-06-19T03:34:17.409395",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "R. C.",
+        "family": "Brown"
+      }
+    ],
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.254.17.2440",
+    "year": 1985,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "A Health Policy Agenda for the American People. Phase I: The principles",
+    "doi_url": "https://doi.org/10.1001/jama.254.17.2440",
+    "updated": "2018-06-18T11:21:29.432188",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "B. E.",
+        "family": "Balfe"
+      }
+    ],
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.259.7.1056",
+    "year": 1988,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Herpes simplex encephalitis in a patient with lymphoma. Relapse following acyclovir therapy",
+    "doi_url": "https://doi.org/10.1001/jama.259.7.1056",
+    "updated": "2018-06-19T10:06:41.626887",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "A. L.",
+        "family": "Rothman"
+      }
+    ],
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.261.2.243",
+    "year": 1989,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Comparison of critical care by family physicians and general internists",
+    "doi_url": "https://doi.org/10.1001/jama.261.2.243",
+    "updated": "2018-07-20T13:05:46.566126",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "R. W.",
+        "family": "Carlson"
+      }
+    ],
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.263.22.3057",
+    "year": 1990,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Treatment of photoaged skin with topical tretinoin increases epidermal-dermal anchoring fibrils. A preliminary report",
+    "doi_url": "https://doi.org/10.1001/jama.263.22.3057",
+    "updated": "2018-06-18T23:09:27.027034",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "D. T.",
+        "family": "Woodley"
+      }
+    ],
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.267.11.1495",
+    "year": 1992,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Cholera in the Americas. Guidelines for the clinician",
+    "doi_url": "https://doi.org/10.1001/jama.267.11.1495",
+    "updated": "2018-06-19T10:04:51.902541",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "D. L.",
+        "family": "Swerdlow"
+      }
+    ],
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.274.7.539",
+    "year": 1995,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "HDL cholesterol predicts coronary heart disease mortality in older persons",
+    "doi_url": "https://doi.org/10.1001/jama.274.7.539",
+    "updated": "2018-06-19T10:04:39.771131",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "M. C.",
+        "family": "Corti"
+      }
+    ],
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.284.12.1515",
+    "year": 2000,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Origins and Consequences of Vascular Calcification",
+    "doi_url": "https://doi.org/10.1001/jama.284.12.1515",
+    "updated": "2018-06-19T10:06:41.637798",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "A.",
+        "family": "Farzaneh-Far"
+      }
+    ],
+    "journal_name": "JAMA: The Journal of the American Medical Association"
+  },
+  {
+    "doi": "10.1001/jama.287.9.1184-jms0306-7-1",
+    "year": 2002,
+    "genre": "journal-article",
+    "is_oa": true,
+    "title": "Identification/Chief Complaint",
+    "doi_url": "https://doi.org/10.1001/jama.287.9.1184-jms0306-7-1",
+    "updated": "2018-07-23T14:03:05.743003",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "Matthew",
+        "family": "Ehrlich"
+      }
+    ],
+    "journal_name": "JAMA"
+  },
+  {
+    "doi": "10.1001/jamaneurol.2014.4563",
+    "year": 2015,
+    "genre": "journal-article",
+    "is_oa": false,
+    "title": "Rapid Eye Movement Sleep Behavior Disorder and Neurodegenerative Disease",
+    "doi_url": "https://doi.org/10.1001/jamaneurol.2014.4563",
+    "updated": "2018-06-16T19:03:06.555095",
+    "publisher": "American Medical Association (AMA)",
+    "z_authors": [
+      {
+        "given": "Michael Joseph",
+        "family": "Howell",
+        "affiliation": [
+          {
+            "name": "Department of Neurology, University of Minnesota, Minneapolis"
+          }
+        ]
+      },
+      {
+        "given": "Carlos Hugh",
+        "family": "Schenck",
+        "affiliation": [
+          {
+            "name": "Department of Psychiatry, University of Minnesota, Minneapolis"
+          }
+        ]
+      }
+    ],
+    "journal_name": "JAMA Neurology"
+  }
+  ]
