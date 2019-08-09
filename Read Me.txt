@@ -1,0 +1,1 @@
+Before feeding the json file, kindly get the json file into the correct format and validate the same here "https://jsonlint.com/"
